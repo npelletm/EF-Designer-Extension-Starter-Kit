@@ -1,15 +1,15 @@
 EF Designer Extension Starter Kit
 =================================
-Updated June 2015
+Updated October 2018
 
-Entity Framework Designer Starter Kit for VS2012, VS2013 and VS2015
+Entity Framework Designer Starter Kit for VS2012, VS2013, VS2015 and VS2017
 
 There is a Starter Kit referred to in the MS documentation and in Visual Studio Gallery but I could not get it to work.
 http://code.msdn.microsoft.com/DesignerExtStartKit and http://archive.msdn.microsoft.com/DesignerExtStartKit
 http://msdn.microsoft.com/en-us/library/ee373851.aspx
 I think it was built for VS2010 RC.
 
-Both the VSIX manifest and the vstemplete files are now VS2012, VS2013 and VS2015 versions. The projects set for .NET 4.5, .NET 4.5.1 and .NET 4.6 correspondingly.
+Both the VSIX manifest and the vstemplete files are now VS2012, VS2013, VS2015 and VS2017 versions. The projects set for .NET 4.5, .NET 4.5.1, .NET 4.6 and .Net 4.6 correspondingly.
 
 I decided to recover the files from the original VSIX and enhance the starter kit to include a T4 template (that does nothing) and a designer property on a property.
 
@@ -38,5 +38,8 @@ This has been agreed with Microsoft Entity Framework as a bug.
 John 
 
 Updated by Andrii
-
 June 2015
+
+Updated by npelletm
+October 2018
+
